@@ -1,0 +1,1 @@
+var passage = document.getElementById("passage");

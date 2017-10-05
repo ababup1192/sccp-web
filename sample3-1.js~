@@ -1,0 +1,2 @@
+var paragraph = document.getElementById("message");
+paragraph.innerHTML = "";

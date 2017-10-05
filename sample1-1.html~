@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Sample</title>
+</head>
+<body>
+  <ol>
+    <li>りんご</li>
+    <li>ばなな</li>
+  </ol>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <script>
+        console.log("コンソールに表示されるかな？");
+        alert("アラート！");
+    </script>
+</body>
+</html>
